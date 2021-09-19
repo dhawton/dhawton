@@ -6,7 +6,7 @@
   <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
 </a>
 <a href="https://gitlab.com/dhawton">
-  <img align="left" alt="GitLab" width="22px" src="https://raw.githubusercontent.com/dhawton/dhawton/main/svgs/gitlab.svg">
+  <img align="left" alt="GitLab" width="22px" src="https://raw.githubusercontent.com/dhawton/dhawton/main/svgs/gitlab-icon.svg">
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dhawton.dhawton)
