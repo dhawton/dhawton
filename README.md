@@ -30,8 +30,6 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
 
-<br>
-
 📊 **What I spent time on this past week:**
 <!--START_SECTION:waka-->
 ```text
