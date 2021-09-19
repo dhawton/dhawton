@@ -1,5 +1,5 @@
 ### Hello There
-<a href="https://linkedin.com/in/daniel.hawton">
+<a href="https://linkedin.com/in/danielhawton">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
 
