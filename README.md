@@ -3,7 +3,6 @@
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
 
-&nbsp;
 ![](https://visitor-badge.glitch.me/badge?page_id=dhawton.dhawton)
 
 
