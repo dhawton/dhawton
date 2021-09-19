@@ -32,7 +32,9 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 📊 **What I spent time on this past week:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   27 mins         ███████████████████▓░░░░░   78.01 % 
+Go         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+YAML       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 ```
 <!--END_SECTION:waka-->
 
