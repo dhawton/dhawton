@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/danielhawton">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
-
+<br>
 Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for software development began when I discovered a Visual Basic 3.0 CD-ROM laying around in my dad's collection, and my grandparents gifted me "Visual Basic for Dummies" back in 1994. When I discovered Linux in 1999, I was hooked and have been ever since.  Very little of what I write does not end up here in this GitHub Repository.
 
 **Languages, Frameworks, Libraries and Tools**
