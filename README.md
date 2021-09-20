@@ -29,7 +29,7 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 📊 **What I spent time on this past week:**
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2021 - 18 September, 2021
+Week: 13 September, 2021 - 19 September, 2021
 
 Markdown   27 mins         ███████████████████▓░░░░░   78.01 % 
 Go         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
