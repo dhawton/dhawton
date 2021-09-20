@@ -26,7 +26,7 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
 
-📊 **What I spent time on this past week:** (updates daily at 1AM Mountain Time)
+📊 **What I spent time on this past week:** (updates daily at 1AM Mountain Time, started tracking 9/19/2021)
 <!--START_SECTION:waka-->
 ```text
 Week: 13 September, 2021 - 19 September, 2021
