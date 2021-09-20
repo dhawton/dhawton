@@ -31,9 +31,10 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 ```text
 Week: 13 September, 2021 - 19 September, 2021
 
-Markdown   27 mins         ███████████████████▓░░░░░   78.01 % 
-Go         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-YAML       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Go         4 hrs 29 mins   ██████████████████████▒░░   89.11 % 
+Markdown   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
