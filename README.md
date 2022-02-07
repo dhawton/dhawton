@@ -29,7 +29,7 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 📊 **What I spent time on this past week:** (updates daily at 1AM Mountain Time, started tracking 9/19/2021)
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
 Bash       2 hrs 9 mins    █████████████▓░░░░░░░░░░░   55.22 % 
 YAML       47 mins         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
