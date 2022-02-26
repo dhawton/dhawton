@@ -29,13 +29,13 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 📊 **What I spent time on this past week:** (updates daily at 1AM Mountain Time, started tracking 9/19/2021)
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
-Markdown     1 hr 42 mins    ███████▓░░░░░░░░░░░░░░░░░   31.14 % 
-Vue.js       55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 % 
-YAML         40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-JavaScript   37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Docker       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Markdown   28 mins         ███████████▓░░░░░░░░░░░░░   46.22 % 
+Vue.js     13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.20 % 
+Other      10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Bash       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+YAML       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 <!--END_SECTION:waka-->
 
