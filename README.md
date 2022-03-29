@@ -30,12 +30,9 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2022 - To: 28 March 2022
+From: 22 March 2022 - To: 29 March 2022
 
-Vue.js            36 mins         █████████████▓░░░░░░░░░░░   55.02 %
-Go                15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-Protocol Buffer   14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other             1 hr 31 mins    ████████████▓░░░░░░░░░░░░   50.33 %
 ```
 
 <!--END_SECTION:waka-->
