@@ -30,14 +30,14 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2022 - To: 25 April 2022
+From: 19 April 2022 - To: 26 April 2022
 
-Go           4 hrs 25 mins   ████████████▒░░░░░░░░░░░░   48.96 %
-Bash         1 hr 52 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-Java         1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-Markdown     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-YAML         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-HTML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Bash         1 hr 52 mins    ███████████▒░░░░░░░░░░░░░   45.52 %
+Java         1 hr 8 mins     ███████░░░░░░░░░░░░░░░░░░   27.98 %
+Markdown     25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+HTML         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Python       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
