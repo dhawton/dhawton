@@ -30,14 +30,14 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
-Bash         4 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   35.44 %
-Go           3 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Terraform    54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Markdown     50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Text         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-JavaScript   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Bash         5 hrs 34 mins   ██████████▓░░░░░░░░░░░░░░   42.29 %
+Go           3 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
+Terraform    54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Markdown     47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+JavaScript   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Makefile     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
