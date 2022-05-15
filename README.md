@@ -30,14 +30,14 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 May 2022 - To: 14 May 2022
+From: 08 May 2022 - To: 15 May 2022
 
-Go                5 hrs 7 mins    ███████████▓░░░░░░░░░░░░░   46.60 %
-YAML              2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-Protocol Buffer   1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Bash              58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Markdown          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Makefile          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Go                5 hrs 32 mins   ████████████░░░░░░░░░░░░░   48.50 %
+YAML              2 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+Protocol Buffer   1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Bash              58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Markdown          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Makefile          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
