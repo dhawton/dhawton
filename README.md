@@ -30,11 +30,12 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
-PHP              28 mins         ███████████▓░░░░░░░░░░░░░   46.74 %
-YAML             24 mins         █████████▓░░░░░░░░░░░░░░░   39.12 %
-Other            6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+PHP              28 mins         ██████████████░░░░░░░░░░░   55.47 %
+YAML             21 mins         ██████████▓░░░░░░░░░░░░░░   42.11 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
