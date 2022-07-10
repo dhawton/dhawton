@@ -30,7 +30,7 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 July 2022 - To: 09 July 2022
+From: 03 July 2022 - To: 10 July 2022
 
 PHP              28 mins         ██████████████░░░░░░░░░░░   55.47 %
 YAML             21 mins         ██████████▓░░░░░░░░░░░░░░   42.11 %
