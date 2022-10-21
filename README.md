@@ -30,7 +30,7 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2022 - To: 19 October 2022
+From: 13 October 2022 - To: 20 October 2022
 
 Vue.js       6 hrs 56 mins   ████████████████▓░░░░░░░░   66.61 %
 YAML         1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
