@@ -30,14 +30,13 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 23 October 2022
+From: 17 October 2022 - To: 24 October 2022
 
-Vue.js       3 hrs 43 mins   ████████████████▓░░░░░░░░   67.20 %
-YAML         52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Go           35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-TypeScript   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Vue.js       1 hr 38 mins    ██████████████▓░░░░░░░░░░   59.10 %
+YAML         37 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+Go           15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+TypeScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
