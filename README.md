@@ -30,7 +30,7 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 October 2022 - To: 04 November 2022
+From: 29 October 2022 - To: 05 November 2022
 
 Go           1 hr 24 mins    █████████████▓░░░░░░░░░░░   55.28 %
 TypeScript   23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
