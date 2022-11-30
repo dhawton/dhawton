@@ -30,9 +30,9 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 November 2022 - To: 28 November 2022
+From: 22 November 2022 - To: 29 November 2022
 
-Go   17 mins         █████████████████████████   100.00 %
+Go   29 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
