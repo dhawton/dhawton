@@ -30,7 +30,7 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
 TypeScript   1 hr 21 mins    ████████████████▓░░░░░░░░   66.15 %
 Vue.js       37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.54 %
