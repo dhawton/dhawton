@@ -30,7 +30,7 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2023 - To: 13 March 2023
+From: 07 March 2023 - To: 14 March 2023
 
 Bash   27 mins         █████████▓░░░░░░░░░░░░░░░   39.11 %
 Diff   21 mins         ████████░░░░░░░░░░░░░░░░░   31.79 %
