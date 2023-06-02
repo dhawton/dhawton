@@ -29,14 +29,14 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 📊 **What I spent time on this past week:** (updates daily at 1AM Mountain Time, started tracking 9/19/2021)
 <!--START_SECTION:waka-->
 
-```text
-From: 24 May 2023 - To: 31 May 2023
+```txt
+From: 25 May 2023 - To: 01 June 2023
 
-Go               3 hrs 47 mins   ███████████░░░░░░░░░░░░░░   44.03 %
-Docker           45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-JavaScript       42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-PHP              42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-Bash             41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Go               5 hrs 52 mins   ███████████████▒░░░░░░░░░   61.36 %
+Docker           45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+PHP              42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Bash             41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Blade Template   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
