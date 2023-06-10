@@ -30,13 +30,9 @@ Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for so
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 08 June 2023
+From: 02 June 2023 - To: 09 June 2023
 
-Markdown   48 mins         ███████████████▒░░░░░░░░░   60.80 %
-HTML       23 mins         ███████▓░░░░░░░░░░░░░░░░░   30.07 %
-YAML       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-SCSS       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-TOML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
