@@ -1,13 +1,13 @@
 ### Hello There
 <a href="https://linkedin.com/in/danielhawton">
-  <img align="left" alt="LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/dhawton/dhawton/refs/heads/main/svgs/linkedin.png">
 </a>
 <br>
 Hello! My name is Daniel Hawton. I am a self-taught developer. My passion for software development began when I discovered a Visual Basic 3.0 CD-ROM laying around in my dad's collection, and my grandparents gifted me "Visual Basic for Dummies" back in 1994. When I discovered Linux in 1999, I was hooked and have been ever since.  Very little of what I write does not end up here in this GitHub Repository.
 
 **Languages, Frameworks, Libraries and Tools**
 <br>
-<img width="30" src="https://raw.githubusercontent.com/dhawton/dhawton/main/svgs/golang-blue.svg">
+<img width="30" src="https://raw.githubusercontent.com/dhawton/dhawton/refs/heads/main/svgs/golang-blue.svg">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
